@@ -1,0 +1,26 @@
+.text-1 {
+  font-family: serif;
+  font-weight: 400;
+}
+
+.text-2 {
+  font-family: sans-serif;
+  font-weight: 800;
+}
+
+.text-3 {
+  font-family: monospace;
+  font-weight: 100;
+}
+
+.world {
+  font-family: "Honk";
+}
+
+.titel {
+  font-family: "Bungee Spice", sans-serif;
+}
+
+.test {
+  font-family: "Nabla", system-ui;
+}
